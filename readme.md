@@ -5,7 +5,7 @@
 
 This program was developed for my love, Juan Pena.
 
-![Salami](salamelon.jpeg)
+![Salami](assets/salamelon.jpeg)
 
 @ To-Do: add and fill in the following sections
  
@@ -30,5 +30,5 @@ Te Quiero Mucho Papi
 
 I love you Juan
 
-![us][juan_and_rebeca.jpeg]
+![us](assets/juan_and_rebeca.jpeg)
 Rebeca 
