@@ -1,0 +1,42 @@
+
+# Terminal First: Why do I push a terminal first paradigm when there are so many good IDE's, UI's, and other tools that we normally use as computing machine workers?
+
+A couple reasons. First off, it's cool as hell (jk).
+
+Secondly, besides just kinda looking neat and hacker-y, there's actually a lot of benefit from using a terminal-first approach. When you have well-developed terminal skills, you can: 
+	- work on any machine with very little startup/set up time
+	- maintain flow and keep your train of focus: when you're fluent in terminal-first engineering work, everything you want or need to do to complete your projects can mostly be done within your command line, and it will make you way less likely to risk precious focus and flow by having to exit out and switch contexts into another window.
+
+You know how most professional engineers use two monitors?  A big reason for that is because we want one screen for each job; a screen for output, a screen for communication, and a screen for building. 
+
+## The "output" screen can show things like:
+  - logging and print statements
+  - a rendered app, website, or template
+  - unit test information
+  - performance metrics
+  - your AWS dashboard 
+
+etc etc.
+
+## The "buidling screen always goes in the middle, becauseat the end of the day, building things is the core part of our trade .
+
+## The "buidling screen always goes in the middle, becauseat the end of the day, building things is the core part of our trade as SWE's.
+
+## The "buidling" screen should contain your:
+  - IDE if you're writing or editing code
+  - your terminal at all times
+
+## The "communciations" screen is where you can do things like : 
+  - read direct messages such as slack or iMessage
+  - read tweets or blog posts
+  - answer emails. 
+  - google syntax questions.
+
+As a mnemonic, you can remember: googling stuff, reading other human's words in any form, writing your own words intended for connecting to other humans -- unles you are working specifically on writing an english/human language piece of writing, those all go on the right.
+
+## Our setup needs to go building-center, with output on your left side and communications on your right. 
+
+
+
+
+## Memorizing hot-keys, mastering bash skills, and understanding the fucking awesome potential power of your command-line skills is our focus as we dive in. These skills need to be embedded in your muscles.
