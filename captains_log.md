@@ -12,3 +12,27 @@ over the next few work sessions on this I'm gonna try to have the discipline to 
 "the key to goodness is sustainability" < -- I agree with this.
 
 I think this totally helps me study for technicals and for goals.
+
+	***
+
+Star date May 5th
+
+
+I think I need more of platform or opportunity to explore this concept of optimizing for human-readable, logic maintanable stuff.
+
+I wonder if I should apply for a grant or something. That would be pretty interesting. 
+
+Yo, tonight, let's finish "you've got mail". 
+
+I find those 90's movies so comforting and interesting 
+because I love seeing the kind of thing my parents would have loved at my age. 
+
+I fucking love seeing anything that reminds of what my antepasados went through.
+
+Okay, action items: 
+
+	[] learn more about obsidian
+	[] read through the features of iTerm
+	[] log into threads on my laptop so I can encourage my brain and body to transition to desktop mode in the morning.
+
+Wow, does opening a git diff actually open a vim window?
