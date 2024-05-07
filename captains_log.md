@@ -33,6 +33,16 @@ Okay, action items:
 
 	[] learn more about obsidian
 	[] read through the features of iTerm
-	[] log into threads on my laptop so I can encourage my brain and body to transition to desktop mode in the morning.
+	[x] log into threads on my laptop so I can encourage my brain and body to transition to desktop mode in the morning.
 
 Wow, does opening a git diff actually open a vim window?
+
+
+Start Date may 6th
+
+I still really want to continue diving into a terminal-first mindset, but I need to kind of come up with a hello world example for Juan to rep out
+
+I want to do this in a jupyter notebook probably, that's the easiest thing in my opinion.
+
+Ugh somehow installing a theme seems to have broken juptyer, so that sucks. I should probably uninstall it. Do that tomorrow 
+ 
