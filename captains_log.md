@@ -45,4 +45,16 @@ I still really want to continue diving into a terminal-first mindset, but I need
 I want to do this in a jupyter notebook probably, that's the easiest thing in my opinion.
 
 Ugh somehow installing a theme seems to have broken juptyer, so that sucks. I should probably uninstall it. Do that tomorrow 
- 
+
+
+Monday 
+I need to set up a virtual environment, and I need to rep my vim hotkeys/set up vim in general, but I am in the middle of trying to fix my issue with the jupyter theme so I need to figure out how to prioritize so I don't get distracted or get discouraged from changing tracks
+
+Update: I toggled on a python 3 virtual environment using my alias'd "envplz" terminal command and
+that solved the issue. There's definitely a lesson here in "sometimes the work you don't want to do 
+ends up being the exact work you *need* to do"  but I refuse to acknowledge it lol.
+
+Use your hotkeys!!!!!!!!!! Skip to the end of the line in vim by hitting escape and pressing $
+
+Viva the command line revolution 
+
