@@ -58,3 +58,13 @@ Use your hotkeys!!!!!!!!!! Skip to the end of the line in vim by hitting escape 
 
 Viva the command line revolution 
 
+
+Saturday
+
+lucked out and got a super awesome monitor today. Wondering if maybe I should switch to my 60% mechanical keyboard, or if the magic keyboard should be the go to just for convenience sake. One thing, either way: I think I need to make this desk a little bit more stable. Then let's put the webcam on top of this giant monitor.
+
+Do I still own a webcam? I feel like I do
+
+update! I do own a webcam, and this set up is actually working out quite well. Tomorrow morning when I have natural daylight, I'm going to try to make a few short videos. I have a start! I'm excited. 
+
+I'm just going to pretend that nerding out about computer science is my job 
