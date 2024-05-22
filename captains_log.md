@@ -67,4 +67,11 @@ Do I still own a webcam? I feel like I do
 
 update! I do own a webcam, and this set up is actually working out quite well. Tomorrow morning when I have natural daylight, I'm going to try to make a few short videos. I have a start! I'm excited. 
 
-I'm just going to pretend that nerding out about computer science is my job 
+I'm just going to pretend that nerding out about computer science is my job.
+
+I need to figure out the issue of leaving off excess requirements so that when I actually do my pip freeze into a requirements.txt file, it won't just add a bajillion things.
+
+Actually this is a good idea for the next thing to focus on for this project in general. Let's set up a docker container for this training program project. The Docker container should, among other things, install stuff like homebrew and set my jupyter and vim configurations, and it should have cowsay invovled just for fun. 
+
+IN THE BEGINNING, GOD MADE THE COMMAND LINE lol 
+ 
